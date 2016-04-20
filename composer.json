@@ -1,0 +1,10 @@
+{
+    "name": "shirase/jquery-row-height",
+    "authors": [
+        {
+            "name": "shirase",
+            "email": "shirase55@gmail.com"
+        }
+    ],
+    "require": {}
+}
